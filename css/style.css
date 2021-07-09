@@ -223,7 +223,7 @@ Header section
 .header-section {
 	padding-left: 55px;
 	padding-right: 72px;
-	background: #08192d;
+	background: #ffffff;
 }
 
 .site-logo {
@@ -277,13 +277,14 @@ Header section
 .main-menu li a {
 	display: block;
 	font-size: 16px;
-	color: #ffffff;
+	color: #3f0242;
 	padding: 44px 10px;
 	margin-left: 60px;
 }
 
 .main-menu li a:hover {
-	color: #fc0254;
+	color: #ffffff;
+	background-color: #3f0242
 }
 
 .main-menu li:first-child a {
