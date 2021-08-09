@@ -282,11 +282,11 @@ Header section
 	margin-left: 60px;
 }
 
-.main-menu li a:hover {
+/* .main-menu li a:hover {
 	color: #ffffff;
-	background-color: #3f0242
+	
 }
-
+ */
 .main-menu li:first-child a {
 	margin-left: 0;
 }
